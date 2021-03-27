@@ -1,0 +1,150 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #AFEEEE;
+}
+
+.head {
+    padding: 20px;
+    display: flex;
+
+}
+
+.text {
+    
+    padding: 15px;
+    width: 300px;
+    height: 200px;
+}
+
+.icons {
+    margin-top: 5px; 
+       width: 400px;
+    height: 100px;
+}
+
+.Name{
+    font-size: 30px;
+
+}
+
+
+.flex-container{
+    
+    padding-left: 20px;
+    width: 60%;
+    flex-direction: column;
+    height: 1100px;
+display: flex;
+justify-content: space-around;
+
+    
+}
+
+
+.about_me {
+        
+    width: 100%; 
+    height: 250px; 
+    background-color:#B0C4DE;
+}
+
+.info {
+    background-color: #B0C4DE;
+  width: 100%;
+  height: 800px;
+}
+
+
+.flex-container2{
+   margin-top: -4px;
+    padding-left: 30px;
+    width: 35%;
+    flex-direction: column;
+    height: 700px;
+display: flex;
+justify-content: space-around;
+
+    
+}
+
+
+.item {
+    
+    background-color:#B0C4DE;
+    width: 100%;
+    height: 200px;
+}
+
+main{
+    display: flex;
+}
+
+
+.title { 
+    padding-top: 20;
+    font-size: 30px;
+}
+
+
+.text2 {
+   padding-top: 10px;
+   
+}
+
+
+.all {
+    height: 100px;
+    width: 500px;
+    padding: 30px;
+}
+
+.icon1{
+    height: 20px;
+    width: 20px;
+}
+
+
+.icon2{
+    width: 20px;
+    height: 20px;
+}
+
+
+.info_email{
+    padding: 50px;
+}
+
+.email {
+    margin-top: 10px;
+}
+
+
+
+.skillss {
+    margin: 20px;
+    
+}
+
+.skills {
+    font-size: 30px;
+}
+
+
+.Education {
+    
+    margin: 20px;
+}
+
+.title2 {
+    font-size: 30px;
+}
+
+
+.icon3 {
+    margin-top: 20px;
+    width: 20px;
+    height: 20px;
+}
